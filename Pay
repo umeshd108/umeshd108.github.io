@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "BTC",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "3MWUwaez9RRMfi8ycey6QvGumSg2i62eJF"
+      }
+    }
+  ],
+  "payId": "pay$umeshd108.github.io"
+}
